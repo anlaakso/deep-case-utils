@@ -1,11 +1,12 @@
 {
   "name": "deep-case",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "Case utils for keys of Objects",
   "main": "index.js",
   "author": "Andrew Fatkulin",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
+    "case": "^1.4.1",
     "livescript": "^1.4.0",
     "prelude-ls": "^1.1.2"
   }
