@@ -13,3 +13,16 @@ Usage:
 	//[{ fooBar: [{barBaz: 123}, 345 ] }, 'foo']
 
 ```
+List of available utils: 
+	upperCase,
+	lowerCase,
+	snakeCase,
+	pascalCase,
+	camelCase,
+	kebabCase,
+	constantCase,
+	capitalCase,
+	titleCase,
+	flipCase
+
+For more info see https://github.com/nbubna/Case
