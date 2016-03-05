@@ -1,6 +1,6 @@
 # Deep case utils
 
-Set of case utils for object case
+Set of case utils for JavaScript objects
 
 Usage:
 
